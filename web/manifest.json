@@ -1,0 +1,12 @@
+{
+  "name": "FastoWebRTC",
+  "short_name": "FastoWebRTC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "FastoWebRTC it is WebRTC player by FastoCloud",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
